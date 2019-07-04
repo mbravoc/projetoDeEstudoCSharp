@@ -1,0 +1,7 @@
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\bin\Debug\5-CriandoCaracteresETextos.exe.config
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\bin\Debug\5-CriandoCaracteresETextos.exe
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\bin\Debug\5-CriandoCaracteresETextos.pdb
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\obj\Debug\5-CriandoCaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\obj\Debug\5-CriandoCaracteresETextos.exe
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\obj\Debug\5-CriandoCaracteresETextos.pdb
+C:\Users\CCE\source\repos\AprendendoCSharp\5-CriandoCaracteresETextos\obj\Debug\5-CriandoCaracteresETextos.csprojAssemblyReference.cache
